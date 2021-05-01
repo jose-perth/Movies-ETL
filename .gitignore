@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# my config files
+config.py
+
 # Data files   CSV
 movies_metadata.csv
 ratings.csv
