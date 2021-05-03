@@ -13,6 +13,7 @@ In this project we sequentially refactor the code created through Module 8 into 
 Input data files used:
 
 - [wikipedia-movies.json](./Resources/wikipedia-movies.json)
+
 The following files are too large to be uploaded. However, they can be obtained from obtained from [Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset/download)
 - movies_metadata.csv
 - ratings.csv 
