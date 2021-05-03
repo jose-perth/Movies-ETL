@@ -13,8 +13,9 @@ In this project we sequentially refactor the code created through Module 8 into 
 Input data files used:
 
 - [wikipedia-movies.json](./Resources/wikipedia-movies.json)
-- [movies_metadata.csv](./Resources/movies_metadata.csv) 
-- ratings.csv (this is a large file that can be obtained from obtained from [Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset/download))
+The following files are too large to be uploaded. However, they can be obtained from obtained from [Kaggle](https://www.kaggle.com/rounakbanik/the-movies-dataset/download)
+- movies_metadata.csv
+- ratings.csv 
 
 The final PostgreSQL database is located in a local machine.
 
